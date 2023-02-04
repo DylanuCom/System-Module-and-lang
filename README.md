@@ -36,7 +36,7 @@
 ## How To Install
 ### Clone repository
 ``` bash
-git clone https://github.com/erikwibowo/Laravel-9-RBAC-Starter-with-Admin-LTE-3.git
+git clone https://github.com/DylanuCom/System-Module-and-lang.git
 ```
 ### Change directory to directory project
 ``` bash
