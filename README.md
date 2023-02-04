@@ -86,8 +86,8 @@ php artisan serve
 ```
 ### Login with
 ``` bash
-email : superadmin@superadmin.com
-password : superadmin
+email : superadmin@gmail.com
+password : 12345678
 ```
 
 ## Modules
