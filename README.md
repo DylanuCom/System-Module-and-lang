@@ -40,7 +40,7 @@ git clone https://github.com/DylanuCom/System-Module-and-lang.git
 ```
 ### Change directory to directory project
 ``` bash
-cd .\System-Module-and-lang\
+cd System-Module-and-lang
 ```
 ### Intsall packages
 ``` bash
