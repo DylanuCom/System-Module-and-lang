@@ -25,6 +25,7 @@
 - [Spatie](https://spatie.be/docs/laravel-permission/v5/introduction)
 - [Sweet Alert](https://github.com/realrashid/sweet-alert)
 - [File Manager](https://github.com/alexusmai/laravel-file-manager)
+- [Mcamara -Laravel Localization](https://github.com/mcamara/laravel-localization)
 - [Laravel Module](https://nwidart.com/laravel-modules/v6/introduction)
 - [Laravel Module Generator](https://github.com/dcblogdev/laravel-module-generator)
 
